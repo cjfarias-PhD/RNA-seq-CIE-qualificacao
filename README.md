@@ -10,7 +10,7 @@ gerado pelo MultiQC para o projeto de RNA-seq bulk descrito na dissertação.
 ## Como visualizar o relatório
 
 Acesse o relatório interativo pelo link:
-[Clique aqui para visualizar o MultiQC Report](https://htmlpreview.github.io/?https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/multiqc_report.html)
+[Clique aqui para visualizar o MultiQC Report](https://htmlpreview.github.io/?https://github.com/cjfarias-PhD/RNA-seq-CIE-qualificacao.git)
 
 ---
 
