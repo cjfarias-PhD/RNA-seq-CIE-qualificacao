@@ -1,0 +1,2 @@
+Sample	Perfect Index Reads	Mismatched Index Reads	Undetermined Reads
+L1	179633078.0	32974196.0	nan

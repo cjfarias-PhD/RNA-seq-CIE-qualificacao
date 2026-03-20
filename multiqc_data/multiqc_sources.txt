@@ -1,0 +1,28 @@
+Module	Section	Sample Name	Source
+STAR	SummaryLog	Log.final.out	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_3CIECJF/_STARpass1/Log.final.out
+Bowtie 2 / HiSAT2	all_sections	3CIECJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_3CIECJF/3CIECJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	4CIECJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_4CIECJF/4CIECJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	5CIECJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_5CIECJF/5CIECJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	6CIECJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_6CIECJF/6CIECJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	10AIRCJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_10AIRCJF/10AIRCJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	11AIRCJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_11AIRCJF/11AIRCJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	12AIRCJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_12AIRCJF/12AIRCJF.bowtie2.alignment.log
+Bowtie 2 / HiSAT2	all_sections	13AIRCJF	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/Sample_13AIRCJF/13AIRCJF.bowtie2.alignment.log
+Trimmomatic	all_sections	preprocess.job	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/preprocess.job
+bclconvert	bclconvert-runinfo-xml	RunInfo.xml	/storage/zuleika/volume2/project/yutaka/venomTranscriptome/rawData/HiSeqUNIFESPFabioCruz/logs/RunInfo.xml
+bclconvert	bclconvert-runinfo-demux-csv	3CIECJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	4CIECJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	5CIECJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	6CIECJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	10AIRCJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	11AIRCJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	12AIRCJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-demux-csv	13AIRCJFUNIFESP	logs/Demultiplex_Stats.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	3CIECJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	4CIECJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	5CIECJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	6CIECJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	10AIRCJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	11AIRCJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	12AIRCJFUNIFESP	logs/Quality_Metrics.csv
+bclconvert	bclconvert-runinfo-quality-metrics-csv	13AIRCJFUNIFESP	logs/Quality_Metrics.csv
