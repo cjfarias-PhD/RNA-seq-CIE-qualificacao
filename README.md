@@ -30,9 +30,7 @@ gerado pelo MultiQC para o projeto de RNA-seq bulk descrito na dissertação.
 - **Reads multimapeados** → aceitável < 10%; neste estudo: média **5,85%**
 - **Reads não mapeados** → aceitável < 10%; neste estudo: média **2,14%**
 
-### 4. Consistência entre amostras
-- As amostras devem apresentar métricas homogêneas entre si
-- Amostras com desvios expressivos devem ser avaliadas com cautela
+
 
 ---
 
